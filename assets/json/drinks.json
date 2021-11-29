@@ -1,0 +1,144 @@
+{
+	"drinks": [
+		{
+			"id": 1, 
+			"name": "Cappuccino",
+			"type": "Espresso Beverages",
+			"description": "Espresso with steamed milk, topped with a deep layer of foam.",
+			"image": "cappuccino.jpg"
+		},
+		{
+			"id": 2, 
+			"name": "Caffè Mocha",
+			"type": "Espresso Beverages",
+			"description": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+			"image": "caffe_mocha.jpg"
+		},
+		{
+			"id": 3, 
+			"name": "Caramel Macchiato",
+			"type": "Espresso Beverages",
+			"description": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
+			"image": "caramel_macchiato.jpg"
+		},
+		{
+			"id": 4, 
+			"name": "Caffè Americano",
+			"type": "Espresso Beverages",
+			"description": "HOT: Rich, full-bodied espresso with hot water.",
+			"image": "caffe_americano.jpg"
+		},
+		{
+			"id": 5, 
+			"name": "Espresso Con Panna",
+			"type": "Espresso Beverages",
+			"description": "The delicate dollop of whipped cream softens the rich and caramelly espresso flavours so exquisitely, you may choose to forego adding sugar altogether.",
+			"image": "espresso_con_panna.jpg"
+		},
+		{
+			"id": 6, 
+			"name": "Espresso Macchiato",
+			"type": "Espresso Beverages",
+			"description": "Sometimes a touch is just enough. And so it is with the slight dab of foam we set atop our signature espresso in this classic European-style beverage.",
+			"image": "espresso_macchiato.jpg"
+		},
+		{
+			"id": 7, 
+			"name": "Espresso",
+			"type": "Espresso Beverages",
+			"description": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+			"image": "espresso.jpg"
+		},
+		{
+			"id": 8, 
+			"name": "Flat White",
+			"type": "Espresso Beverages",
+			"description": "Expertly steamed milk poured over a double shot of our signature espresso and finished with a thin layer of velvety microfoam.",
+			"image": "flat_white.jpg"
+		},
+		{
+			"id": 9, 
+			"name": "Asian Dolce Latte",
+			"type": "Espresso Beverages",
+			"description": "Double-shots of the premium, dark-roasted Starbucks Espresso Roast, combine with the uniquely developed dolce sauce.",
+			"image": "asian_dolce_latte.jpg"
+		},
+		{
+			"id": 10, 
+			"name": "Cocoa Cappuccino",
+			"type": "Espresso Beverages",
+			"description": "Double-shots of the premium, dark-roasted Starbucks Espresso Roast, combine with the uniquely developed dolce sauce.",
+			"image": "cocoa_cappuccino.jpg"
+		},
+		{
+			"id": 11, 
+			"name": "Ristretto Bianco",
+			"type": "Espresso Beverages",
+			"description": "Bold espresso and pure velvet texture. A product of simplicity, crafted into artistry, our baristas know that balance is key to the perfect Ristretto Bianco.",
+			"image": "ristretto_bianco.jpg"
+		},
+		{
+			"id": 12, 
+			"name": "Iced Espresso & Matcha Fusion",
+			"type": "Espresso Beverages",
+			"description": "We’ve combined our signature Espresso Roast with fine Matcha powder and milk to create the beautifully-layered Matcha & Espresso Fusion. Enjoy it hot and iced.",
+			"image": "iced_espresso_matcha_fusion.jpg"
+		},
+		{
+			"id": 13, 
+			"name": "Double Shot Iced Shaken Espresso",
+			"type": "Espresso Beverages",
+			"description": "Two fresh shots of espresso, hand shaken with classic syrup and ice, finished with low fat milk mixed with sweetened whipped cream.",
+			"image": "double_shot_iced_shaken_espresso.jpg"
+		},
+		{
+			"id": 14, 
+			"name": "Cold Foam",
+			"type": "Espresso Beverages",
+			"description": "Slightly sweetened ice-cold espresso, poured through a distinct layer of surprisingly creamy, nonfat milk cold foam.",
+			"image": "cold_foam.jpg"
+		},
+		{
+			"id": 15, 
+			"name": "Freshly Brewed Coffee",
+			"type": "Brewed Coffee",
+			"description": "Enjoy our rich, flavorful brewed coffees any time of day. Brewed perfectly for those who enjoy their coffee black, check in with our baristas on our selected brew of the day.",
+			"image": "freshly_brewed_coffee.jpg"
+		},
+		{
+			"id": 16, 
+			"name": "Misto",
+			"type": "Brewed Coffee",
+			"description": "Equal parts fresh filter coffee and frothy steamed milk.",
+			"image": "misto.jpg"
+		},
+		{
+			"id": 17, 
+			"name": "Cold Brew",
+			"type": "Brewed Coffee",
+			"description": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
+			"image": "cold_brew.jpg"
+		},
+		{
+			"id": 18, 
+			"name": "Vanilla Sweet Cream Cold Brew",
+			"type": "Brewed Coffee",
+			"description": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+			"image": "vanilla_sweet_cream_cold_brew.jpg"
+		},
+		{
+			"id": 19, 
+			"name": "Green Tea Latte",
+			"type": "Tea",
+			"description": "Smooth and creamy matcha is lightly sweetened and served with steamed milk.",
+			"image": "green_tea_latte.jpg"
+		},
+		{
+			"id": 20, 
+			"name": "Chai Tea Latte",
+			"type": "Tea",
+			"description": "A less-sweet take on our beloved Classic Chai Tea Latte. Black tea--infused with cinnamon, clove and other warming spices--is steamed with milk and sweetened with liquid cane sugar.",
+			"image": "chai_tea_latte.jpg"
+		}
+	]
+}
