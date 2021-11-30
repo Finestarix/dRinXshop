@@ -93,7 +93,7 @@
 
         </div>
 
-        <footer class="absolute bottom-0 w-full bg-white shadow-sm">
+        <footer class="w-full bg-white shadow-sm">
             <div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
                 <div class="md:mt-0 md:order-1">
                     <p class="text-center text-base text-gray-400">
